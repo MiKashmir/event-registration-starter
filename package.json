@@ -1,0 +1,7 @@
+{
+  "name": "event-registration",
+  "version": "1.0.0",
+  "description": "Практична робота № 4. Перший діалог з асистентом: постановка задачі, контекст та уточнення",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
